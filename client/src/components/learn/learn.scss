@@ -1,0 +1,37 @@
+.learn {
+    display: flex;
+    box-sizing: border-box;
+    .learn-container {
+      position: static;
+      width: 100%;
+      height: 100%;
+      background-color: #E4E9F7;
+      overflow: hidden;
+
+      //.home-top {
+      //  display: flex;
+      //  position: relative;
+      //  width: 75%;
+      //  padding: 25px;
+      //  margin: 20px;
+      //  margin-left: 5%;
+      //  margin-top: 3%;
+      //  background-color: #6c8efb;
+      //  border-radius: 45px;
+      //  justify-content: baseline;
+      //}
+
+      .learn-bottom {
+        display: flex;
+        position: relative;
+        width: 75%;
+        padding: 25px;
+        margin: 20px;
+        margin-left: 5%;
+        margin-top: 3%;
+        border-radius: 45px;
+        justify-content: baseline;
+      }
+
+    }
+  }
